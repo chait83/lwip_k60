@@ -1,6 +1,6 @@
 lwip_k60
 ========
-Author : Chaitannya
+Author : Chaitannya Mahatme
 
 LWIP library with FreeRTOS portes for ARM Cortex-M4 series K60DN512 with GCC compiler (Code warrrior IDE)
 This code is intended to run K60DN512 device using GCC compiler. 
